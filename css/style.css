@@ -1,0 +1,50 @@
+.baseContent {
+font-family:"Times New Roman, Times, serif";
+font-size:x-large;
+margin-left: 20px;
+margin-right: 20px;
+}
+
+.baseContentCim {
+font-family:"Times New Roman, Times, serif";
+font-size:xx-large;
+font-style: italic;
+font-weight: bold;
+text-align: center;
+}
+
+.baseContentAlcim {
+font-family:"Times New Roman, Times, serif";
+font-size:x-large;
+font-style: italic;
+font-weight: bold;
+}
+
+.underline {
+text-decoration: underline;
+}
+
+div.piros {
+  background-color: oldlace;
+  color: red;
+  width: 600px;
+  border: 1px solid black;
+  padding: 3px;
+  margin: 2px;
+  font-weight: bold;
+}
+
+div.cim {
+  width: 750px;
+}
+
+p.piros {
+	font-family:"Times New Roman, Times, serif";
+	font-size:x-large;
+	font-style: italic;
+	font-weight: bold;
+  color: red;
+  width: 750px;
+  padding: 3px;
+  margin: 2px;
+}
